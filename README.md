@@ -4,6 +4,7 @@ Educational repository for HU OSS SW 2019
 ## Members
 
 tomorrow
+it's too hard
 
 | Name | Role |
 |------|------|
